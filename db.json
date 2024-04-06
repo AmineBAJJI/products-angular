@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Printer",
+      "price": "90000",
+      "quantity": 8,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": "3",
+      "name": "Smart Phone",
+      "price": 12000,
+      "quantity": 21,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": "4",
+      "name": "Laptop",
+      "price": 45000,
+      "quantity": 15,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "5",
+      "name": "Tablet",
+      "price": 8000,
+      "quantity": 30,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": "6",
+      "name": "External Hard Drive",
+      "price": 3000,
+      "quantity": 40,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": "7",
+      "name": "Keyboard",
+      "price": 1500,
+      "quantity": 50,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "8",
+      "name": "Monitor",
+      "price": 15000,
+      "quantity": 20,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": "9",
+      "name": "Headphones",
+      "price": 2500,
+      "quantity": 60,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": "10",
+      "name": "Webcam",
+      "price": 3500,
+      "quantity": 25,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": "11",
+      "name": "Router",
+      "price": 5000,
+      "quantity": 10,
+      "available": false,
+      "selected": false
+    },
+    {
+      "id": "3902",
+      "name": "Mouse",
+      "price": "2300",
+      "quantity": "12344",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": "1d07",
+      "name": "bajji",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": "f1b6",
+      "name": "a",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": "3937",
+      "name": "Mouse2",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    }
+  ]
+}
